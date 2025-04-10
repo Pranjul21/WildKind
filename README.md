@@ -1,4 +1,4 @@
-# WildKind
+# Birds Detection
 
 ## Labeling example
 
@@ -39,4 +39,3 @@ List of birds that are coming to the bird feeder:
 
 
 ![Labeling example](/images/yolo_predictions.jpg?raw=true)
-
